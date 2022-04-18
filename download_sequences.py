@@ -23,3 +23,7 @@ import json
 with open("data/allseq.json", "w") as f:
   json.dump(allseq, f)
 
+
+
+
+this file is good
